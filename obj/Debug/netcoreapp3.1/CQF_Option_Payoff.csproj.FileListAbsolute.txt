@@ -1,0 +1,11 @@
+C:\Users\danialk\Music\CQF\CQF_Option_Payoff\bin\Debug\netcoreapp3.1\CQF_Option_Payoff.exe
+C:\Users\danialk\Music\CQF\CQF_Option_Payoff\bin\Debug\netcoreapp3.1\CQF_Option_Payoff.deps.json
+C:\Users\danialk\Music\CQF\CQF_Option_Payoff\bin\Debug\netcoreapp3.1\CQF_Option_Payoff.runtimeconfig.json
+C:\Users\danialk\Music\CQF\CQF_Option_Payoff\bin\Debug\netcoreapp3.1\CQF_Option_Payoff.runtimeconfig.dev.json
+C:\Users\danialk\Music\CQF\CQF_Option_Payoff\bin\Debug\netcoreapp3.1\CQF_Option_Payoff.dll
+C:\Users\danialk\Music\CQF\CQF_Option_Payoff\bin\Debug\netcoreapp3.1\CQF_Option_Payoff.pdb
+C:\Users\danialk\Music\CQF\CQF_Option_Payoff\obj\Debug\netcoreapp3.1\CQF_Option_Payoff.csprojAssemblyReference.cache
+C:\Users\danialk\Music\CQF\CQF_Option_Payoff\obj\Debug\netcoreapp3.1\CQF_Option_Payoff.AssemblyInfoInputs.cache
+C:\Users\danialk\Music\CQF\CQF_Option_Payoff\obj\Debug\netcoreapp3.1\CQF_Option_Payoff.AssemblyInfo.cs
+C:\Users\danialk\Music\CQF\CQF_Option_Payoff\obj\Debug\netcoreapp3.1\CQF_Option_Payoff.dll
+C:\Users\danialk\Music\CQF\CQF_Option_Payoff\obj\Debug\netcoreapp3.1\CQF_Option_Payoff.pdb

@@ -1,0 +1,16 @@
+ Call Option
+Frequency, Daily
+Time Intervals, 252
+ Stock Price, 100
+Strike, 100
+Volatility, 0.2
+ Call Option
+ Risk Free Rate, 0.05
+Time to Expiry,1
+ 
+11.424054458984878
+9.135823485574313
+7.747219775634918
+5.542742697610303
+4.048606118096006
+3.033466507275254

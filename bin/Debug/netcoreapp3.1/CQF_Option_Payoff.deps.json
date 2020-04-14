@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CQF_Option_Payoff/1.0.0": {
+        "runtime": {
+          "CQF_Option_Payoff.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CQF_Option_Payoff/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
